@@ -156,6 +156,23 @@ nav ul li a{
 	text-align: center;
 }
 
+.moreinfo p{
+	margin-top: 18px 0 35px;
+}
+
+.more-info h2{
+	margin: 50px 0 0;
+}
+
+.highlight{
+	background-color: #FFADF9;
+	color: #FF3300;
+	padding: 5px 10px;
+	display: inline;
+	line-height: 50px;
+	font-weight: 800;
+}
+
 
 /*
 <div class="more-info" id="more-info">
